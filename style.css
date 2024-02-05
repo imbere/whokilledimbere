@@ -1,0 +1,38 @@
+@font-face {
+    src: url(VT323-Regular.ttf);
+    font-family: Verdana
+}
+
+body
+{
+    background-color: black;
+}
+
+h1{
+ color: white;
+ font-family: verdana;
+margin-left: 530px;
+
+}
+
+p{
+color: white;
+font-family: verdana;
+margin-left: 280px;
+
+}
+
+ul{
+color: white;
+font-family: verdana;
+margin-left: 250px;
+}
+a {
+color:white;
+font-family: verdana;
+margin: 580px;
+}
+
+img{
+margin-left: 390px;
+}
